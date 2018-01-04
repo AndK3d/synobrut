@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+passwords.txt
+hosts.txt
+errors.txt
+.idea/misc.xml
+.idea/modules.xml
+.idea/synobrut.iml
+.idea/vcs.xml
+.idea/workspace.xml
